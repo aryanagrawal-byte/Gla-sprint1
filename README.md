@@ -1,1 +1,1 @@
-# Gla-sprint1
+# aiml-bootcamp-2026
